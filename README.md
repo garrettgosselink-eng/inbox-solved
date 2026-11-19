@@ -99,4 +99,4 @@ Nothing. Inbox Solved is free, and it works on Claude's free plan.
 
 ---
 
-Published by Kenyon Business Strategists, LLC. Free to use and share under the [MIT License](LICENSE).
+Published by Kenyon Business Strategists LLC. Free to use and share under the [MIT License](LICENSE).
