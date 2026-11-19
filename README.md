@@ -20,7 +20,7 @@ No coding. No installing. About five minutes to set up.
 
 ### Step 1: Download the skill
 
-Download **[inbox-solved.zip](inbox-solved.zip)**. Don't open it; you'll upload it as is.
+Download **[inbox-solved.zip](https://github.com/garrettgosselink-eng/inbox-solved/raw/main/inbox-solved.zip)**. Don't open it; you'll upload it as is.
 
 ### Step 2: Check one setting
 
