@@ -8,6 +8,8 @@
 
 No coding. No installing. About five minutes to set up.
 
+**Want tips on getting more out of Inbox Solved, and first word on new versions?** Join the list at [inboxsolved.com](https://inboxsolved.com).
+
 ---
 
 ## What you need
